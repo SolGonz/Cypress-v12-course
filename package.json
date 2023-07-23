@@ -4,12 +4,12 @@
   "description": "Cypress Automation Framework",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "cypress open"
   },
   "author": "Solange Gonzalez",
   "license": "ISC",
   "devDependencies": {
     "@cypress/xpath": "^2.0.3",
-    "cypress": "^12.4.1"
+    "cypress": "^12.17.2"
   }
 }
